@@ -103,7 +103,7 @@ nav h1 {
   grid-gap: 20px;
 }
 
-@media (min-width: 576px){
+@media (min-width: 576px) {
   .dsc-btn-page-container {
     width: 220px;
   }
@@ -129,5 +129,3 @@ nav h1 {
   color: var(--dsc-color-btn-primary);
   border: 1px solid var(--dsc-color-btn-primary);
 }
-
-
